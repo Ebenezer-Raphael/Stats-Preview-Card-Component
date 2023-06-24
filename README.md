@@ -51,7 +51,7 @@ img {
 
 ### Continued development
 
-I hope to be able to make it possible to view the optimal layout depending on the device's screen size!
+I hope to make it possible to view the optimal layout depending on the device's screen size!
 
 ### Useful resources
 
