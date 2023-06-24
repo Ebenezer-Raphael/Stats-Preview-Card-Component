@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://www.github.com/Ebenezer-Raphael/Stats-Preview-Card-Component/tree/main)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [Stats Preview Card Component](https://ebenezer-raphael.github.io/Stats-Preview-Card-Component/)
 
 ## My process
 
