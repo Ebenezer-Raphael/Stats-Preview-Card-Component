@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://www.github.com/Ebenezer-Raphael/Stats-Preview-Card-Component/tree/main)
-- Live Site URL: [Stats Preview Card Component](https://ebenezer-raphael.github.io/Stats-Preview-Card-Component/)
+- Solution URL: [GitHub](https://www.github.com/ebenezerraph/stats-preview-card-Ccomponent/)
+- Live Site URL: [Stats Preview Card Component](https://ebenezerraph.github.io/stats-preview-card-component/)
 
 ## My process
 
@@ -60,5 +60,6 @@ I hope to make it possible to view the optimal layout depending on the device's 
 
 ## Author
 
-- Frontend Mentor - [@Ebenezer-Raphael](https://www.frontendmentor.io/profile/Ebenezer-Raphael)
-- Twitter - [@Ebenezer-Raphae1](https://www.twitter.com/EbenezerRaphae1)
+- GitHub - [@ebenezerraph](https://www.github.com/ebenezerraph)
+- Frontend Mentor - [@ebenezerraph](https://www.frontendmentor.io/profile/ebenezerraph)
+- Twitter - [@EbenezerRaph](https://www.twitter.com/EbenezerRaph)
