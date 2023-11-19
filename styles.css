@@ -7,7 +7,9 @@
     src: url(fonts/Inter.ttf);
 }
 .attribution {
-    font-size: 11px; text-align: center;
+    margin: 0px auto;
+    font-size: 11px;
+    text-align: center;
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
@@ -24,14 +26,14 @@ body {
 main {
     background-color: hsl(244, 38%, 16%);
     border-radius: 10px;
-    margin: 10% auto 5px;
-    height: 223px;
-
+    margin: 10% auto 35px;
+    height: 446px;
+    width: 1120px;
 }
 .flex-container {
     display: flex;
     flex-direction: row;
-    width: 560px;
+    width: 1120px;
 }
 .image {
     border-radius: 0px 10px 10px 0px;
@@ -39,6 +41,7 @@ main {
 @media screen and (max-width: 700px) {
     main {
         height: 720px;
+        width: 327px;
     }
     .flex-container {
         display: flex;
@@ -52,42 +55,45 @@ main {
 .content {
     /* background-color: hsl(244, 38%, 16%); */
     box-sizing: border-box;
-    height: 223px;
-    padding: 30px 40px 30px 30px;
+    height: 446px;
+    padding: 60px 40px 30px 60px;
 }
 @media screen and (max-width: 700px) {
     .content {
         height: 480px;
+        padding: 30px 40px 30px 30px;
     }
 }
 h2 {
-    margin: 0px 0px 20px 0px;
-    font-size: 20px;
+    margin: 0px 0px 40px 0px;
+    font-size: 40px;
     font-weight: 700;
 }
 h2>span {
     color: hsl(277, 64%, 61%);
 }
 p {
-    font-size: 9px;
+    font-size: 18px;
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 1.5em;
-    margin-bottom: 20px;
-    width: 210px;
+    margin-bottom: 40px;
+    width: 420px;
 }
 .stats {
     font-family: "Inter";
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
+    width: 420px;
 }
 .stat-heading {
     font-family: "LexendDeca-Regular";
     color:hsla(0, 0%, 100%, 0.6);
     text-transform: uppercase;
-    font-size: 7px;
-    display: inline-block;
+    font-size: 14px;
+    display: block;
 }
 #stat {
+    font-size: 32px;
     margin: 5px 0px;
     font-weight: 700;
 }
@@ -96,6 +102,7 @@ p {
         text-align: center;
     }
     h2 {
+        margin-bottom: 20px;
         font-size: 28px;
         font-weight: 700;
         width: 250px;
@@ -104,10 +111,12 @@ p {
         font-size: 15px;
         line-height: 1.8em;
         width: 260px;
+        margin-bottom: 20px;
 }
     .stats {
         display: flex;
         flex-direction: column;
+        width: inherit;
     }
     .stat {
         margin: 10px 0px;
