@@ -11,7 +11,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -49,10 +48,6 @@ img {
 }
 ```
 
-### Continued development
-
-I hope to make it possible to view the optimal layout depending on the device's screen size!
-
 ### Useful resources
 
 - [HTML & CSS: Design and Build Web Sites - Book by Jon Duckett](https://www.htmlandcssbook.com/) - This helped me to address minor issues in my code and I will use it going forward.
@@ -62,4 +57,4 @@ I hope to make it possible to view the optimal layout depending on the device's 
 
 - GitHub - [@ebenezerraph](https://www.github.com/ebenezerraph)
 - Frontend Mentor - [@ebenezerraph](https://www.frontendmentor.io/profile/ebenezerraph)
-- Twitter - [@EbenezerRaph](https://www.twitter.com/EbenezerRaph)
+- Twitter - [@ebenezerraph](https://www.twitter.com/ebenezerraph)
