@@ -53,7 +53,6 @@ main {
     }
 }
 .content {
-    /* background-color: hsl(244, 38%, 16%); */
     box-sizing: border-box;
     height: 446px;
     padding: 60px 40px 30px 60px;
