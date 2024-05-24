@@ -13,6 +13,7 @@
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
+    text-decoration: none;
 }
 img {
     filter: grayscale(100%) brightness(35%) sepia(100%) hue-rotate(-130deg) saturate(600%) contrast(0.69);
