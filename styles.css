@@ -57,7 +57,7 @@ p {
     justify-content: space-between;
     width: 420px;
 }
-#stat {
+.the-stat {
     font-size: 32px;
     margin: 5px 0px;
     font-weight: 700;
@@ -122,7 +122,7 @@ img {
     .stat {
         margin: 10px 0px;
     }
-    #stat {
+    .the-stat {
         font-size: 20px;
     }
     .stat-heading {
