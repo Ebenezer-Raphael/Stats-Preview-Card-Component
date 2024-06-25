@@ -42,6 +42,7 @@ Users should be able to:
 
 I learned how to add a filter to an image using CSS!
 
+css:
 ```css
 img {
     filter: grayscale(100%) brightness(35%) sepia(100%) hue-rotate(-130deg) saturate(600%) contrast(0.69);
