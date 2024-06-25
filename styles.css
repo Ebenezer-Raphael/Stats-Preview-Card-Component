@@ -14,8 +14,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    min-width: fit-content;
+    min-height: 100vh;
     margin: 0;
+}
+body > div {
+    padding: 20px;
 }
 main {
     background-color: hsl(244, 38%, 16%);
@@ -109,7 +113,7 @@ img {
         line-height: 1.8em;
         width: 260px;
         margin-bottom: 20px;
-}
+    }
     .stats {
         display: flex;
         flex-direction: column;
