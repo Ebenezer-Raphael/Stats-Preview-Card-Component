@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/stats-preview-card-components.jpg)
+![]()
 
 ### Links
 
@@ -40,8 +40,9 @@ Users should be able to:
 
 ### What I learned
 
-Well, I learned how to add a filter to an image using CSS!
+I learned how to add a filter to an image using CSS!
 
+css:
 ```css
 img {
     filter: grayscale(100%) brightness(35%) sepia(100%) hue-rotate(-130deg) saturate(600%) contrast(0.69);
@@ -50,11 +51,10 @@ img {
 
 ### Useful resources
 
-- [HTML & CSS: Design and Build Web Sites - Book by Jon Duckett](https://www.htmlandcssbook.com/) - This helped me to address minor issues in my code and I will use it going forward.
+- [HTML & CSS: Design and Build Web Sites - Book by Jon Duckett](https://www.htmlandcssbook.com/) - This helped me address minor issues in my code, and I will use it going forward.
 - [FreeCodeCamp](https://forum.freecodecamp.org/) - This amazing forum helped me finally understand how to add filters to an image. I'd recommend it to anyone who needs help understanding certain concepts.
 
 ## Author
 
-- GitHub - [@ebenezerraph](https://www.github.com/ebenezerraph)
 - Frontend Mentor - [@ebenezerraph](https://www.frontendmentor.io/profile/ebenezerraph)
-- X - [@ebenezerraph](https://www.twitter.com/ebenezerraph)
+- X - [@ebenezerraph](https://www.x.com/ebenezerraph)
