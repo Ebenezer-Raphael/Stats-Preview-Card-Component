@@ -43,9 +43,10 @@ main {
 }
 
 h2 {
-    margin: 0px 0px 40px 0px;
-    font-size: 40px;
+    margin: 0px 0px 30px 0px;
+    font-size: 38px;
     font-weight: 700;
+    width: 90%;
 }
 
 h2>span {
@@ -53,23 +54,22 @@ h2>span {
 }
 
 p {
-    font-size: 18px;
+    font-size: 15px;
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 1.5em;
-    margin-bottom: 40px;
-    width: 420px;
+    margin-bottom: 70px;
+    width: 75%;
 }
 
 .stats {
     font-family: "Inter";
     display: flex;
     justify-content: space-between;
-    width: 420px;
+    width: 70%;
 }
 
 .the-stat {
-    font-size: 32px;
-    margin: 5px 0px;
+    font-size: 24px;
     font-weight: 700;
 }
 
@@ -77,8 +77,10 @@ p {
     font-family: "LexendDeca-Regular";
     color: hsla(0, 0%, 100%, 0.6);
     text-transform: uppercase;
-    font-size: 14px;
+    letter-spacing: 0.08em;
+    font-size: 12px;
     display: block;
+    margin-top: 10px;
 }
 
 img {
@@ -106,7 +108,7 @@ img {
 
 @media screen and (max-width: 700px) {
     main {
-        height: 720px;
+        height: fit-content;
         width: 327px;
         display: flex;
         flex-direction: column-reverse;
@@ -114,8 +116,8 @@ img {
     }
 
     .content {
-        height: 480px;
-        padding: 30px 40px 30px 30px;
+        height: fit-content;
+        padding: 40px 30px 30px 30px;
     }
 
     h2,
@@ -126,16 +128,16 @@ img {
 
     h2 {
         margin-bottom: 20px;
-        font-size: 28px;
+        font-size: 27px;
         font-weight: 700;
-        width: 250px;
+        width: 100%;
     }
 
     p {
         font-size: 15px;
         line-height: 1.8em;
-        width: 260px;
-        margin-bottom: 20px;
+        width: 100%;
+        margin: 0 auto 20px;
     }
 
     .stats {
@@ -149,7 +151,7 @@ img {
     }
 
     .the-stat {
-        font-size: 20px;
+        font-size: 22px;
     }
 
     .stat-heading {
